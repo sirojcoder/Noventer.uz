@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
 
 	return (
 		<div>
-			<div className='bg-[#180e28f9] w-auto h-20  rounded-md border-[0.5px] border-white/20 fixed inset-0 z-30 backdrop-blur-md'>
+			<div className='bg-[#0E041D] w-auto h-20   fixed inset-0 z-30'>
 				<div className='container w-10/12 mx-auto h-full flex items-center justify-between'>
 					<Link href='/' className='flex items-center gap-1'>
 						<Image
